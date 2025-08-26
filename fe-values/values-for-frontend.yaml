@@ -1,3 +1,4 @@
 redis:
   registry: "docker.io"
-  image: redis:8.0.3
+  image: redis:6.2.19
+...
